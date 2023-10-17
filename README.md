@@ -8,4 +8,4 @@ Web Scrapping - Amazon Product Reviews.ipynb
 
 # The Generated csv file.
 
-
+Amazon_Reviews.csv  
