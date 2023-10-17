@@ -1,4 +1,4 @@
-# Web-Scapping-Amazon-Reviews
-Amazon Reviews _Web Scrapping using BeautifulSoup.
+# Web-Scrapping-Amazon-Reviews using BeautifulSoup.
+
 
 The Generated csv file is also attached.
