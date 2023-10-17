@@ -6,5 +6,6 @@ There is one simple scrapers in this project.
 Web Scrapping - Amazon Product Reviews.ipynb
 
 
+# The Generated csv file.
 
-The Generated csv file is also attached.
+
