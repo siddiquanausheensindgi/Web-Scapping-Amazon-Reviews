@@ -10,4 +10,4 @@ Web Scrapping - Amazon Product Reviews.ipynb
 
 [Amazon_Reviews.csv](https://github.com/siddiquanausheensindgi/Web-Scapping-Amazon-Reviews/files/13006262/Amazon_Reviews.csv)
 
-  Amazon_Reviews.csv
+  
